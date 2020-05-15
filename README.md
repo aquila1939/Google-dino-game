@@ -21,7 +21,8 @@ It all boils down to this-
     
  A word of advice:-
 
-    This project takes quite a bit of time to implement and works differently for diferent situations.
-    This is because your skin colour may change on camera depending on the lighting condition of the room and maybe many more factors.  
-    This means it would take much toil and labour before you can get this working for you. But it will be rewarding in the end, I can assure you that.
+    This project takes quite a bit of time to implement and works differently for diferent situations. This is because your 
+    skin colour may change on camera depending on the lighting condition of the room and maybe many more factors.  
+    This means it would take much toil and labour before you can get this working for you. But it will be rewarding 
+    in the end, I can assure you that.
     
