@@ -1,5 +1,9 @@
 # Google-dino-game
-This modification to the dinosaur game is thanks to the OpenCV library of python. As much fun as this project was, a word of advice, the code for this project is fickle. The main idea behind the project is that your camera will register, frame by frame, the specific hand movement and gestures made by you. It will look specifically for surfaces that look like your skin ie. match its color. So it's advised to wear full sleeves and sit in a neutral background while executing the code. This all might sound too complicated to you, but trust me when I say, that it's worth the effort. A youtube video will soon follow explaining how exactly to execute the code and make use of it.
+This modification to the dinosaur game is thanks to the OpenCV library of python. As much fun as this project was, a word of advice, the code for this project is fickle.
+
+The main idea behind the project is that your camera will register, frame by frame, the specific hand movement and gestures made by you. It will look specifically for surfaces that look like your skin ie. match its color. So it's advised to wear full sleeves and sit in a neutral background while executing the code.
+
+This all might sound too complicated to you, but trust me when I say, that it's worth the effort. A youtube video will soon follow explaining how exactly to execute the code and make use of it.
 
 It all boils down to this-
 
